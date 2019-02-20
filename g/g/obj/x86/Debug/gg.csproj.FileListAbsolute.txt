@@ -1,0 +1,11 @@
+C:\g\g\bin\x86\Debug\g.exe.config
+C:\g\g\bin\x86\Debug\g.exe
+C:\g\g\bin\x86\Debug\g.pdb
+C:\g\g\bin\x86\Debug\Newtonsoft.Json.dll
+C:\g\g\bin\x86\Debug\Newtonsoft.Json.xml
+C:\g\g\obj\x86\Debug\g.Form1.resources
+C:\g\g\obj\x86\Debug\g.Properties.Resources.resources
+C:\g\g\obj\x86\Debug\gg.csproj.GenerateResource.Cache
+C:\g\g\obj\x86\Debug\gg.csproj.CoreCompileInputs.cache
+C:\g\g\obj\x86\Debug\g.exe
+C:\g\g\obj\x86\Debug\g.pdb
