@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otchayanniePopitkiChtotoNapisat", "otchayanniePopitkiChtotoNapisat\otchayanniePopitkiChtotoNapisat.csproj", "{91E249D7-A91C-420E-9C4C-6FE5E27032E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E249D7-A91C-420E-9C4C-6FE5E27032E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E249D7-A91C-420E-9C4C-6FE5E27032E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E249D7-A91C-420E-9C4C-6FE5E27032E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E249D7-A91C-420E-9C4C-6FE5E27032E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {689A6EAD-4E68-4346-A060-39B16B40C8C6}
+	EndGlobalSection
+EndGlobal

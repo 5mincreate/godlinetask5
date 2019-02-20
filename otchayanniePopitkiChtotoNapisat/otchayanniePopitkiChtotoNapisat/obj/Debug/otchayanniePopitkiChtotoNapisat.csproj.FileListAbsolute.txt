@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\otchayanniePopitkiChtotoNapisat\otchayanniePopitkiChtotoNapisat\bin\Debug\otchayanniePopitkiChtotoNapisat.exe.config
+C:\Users\User\source\repos\otchayanniePopitkiChtotoNapisat\otchayanniePopitkiChtotoNapisat\bin\Debug\otchayanniePopitkiChtotoNapisat.exe
+C:\Users\User\source\repos\otchayanniePopitkiChtotoNapisat\otchayanniePopitkiChtotoNapisat\bin\Debug\otchayanniePopitkiChtotoNapisat.pdb
+C:\Users\User\source\repos\otchayanniePopitkiChtotoNapisat\otchayanniePopitkiChtotoNapisat\obj\Debug\otchayanniePopitkiChtotoNapisat.csprojAssemblyReference.cache
+C:\Users\User\source\repos\otchayanniePopitkiChtotoNapisat\otchayanniePopitkiChtotoNapisat\obj\Debug\otchayanniePopitkiChtotoNapisat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\otchayanniePopitkiChtotoNapisat\otchayanniePopitkiChtotoNapisat\obj\Debug\otchayanniePopitkiChtotoNapisat.exe
+C:\Users\User\source\repos\otchayanniePopitkiChtotoNapisat\otchayanniePopitkiChtotoNapisat\obj\Debug\otchayanniePopitkiChtotoNapisat.pdb
